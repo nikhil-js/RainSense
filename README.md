@@ -4,13 +4,6 @@ This project is tested over lot of ml models like catboost, xgboost, random fore
 Out of these models catboost performed very well giving an AUC score around and ROC score of 89 far better than others.
 Here due to my system compatibility is very low. So I havent done hyperparameter tuning. But it is highly recommended to do it if possible.
 
-# Testing values
-
-# Rainy Day: 
-![Predictor Values for Rainy Day](githubimgs/predictor.png)
-# Sunny Day:
-![Predictor Values for Sunny Day](githubimgs/predictor1.png)
-
 # Tech Stack
 * Front-End: HTML, CSS, Bootstrap
 * Back-End: Flask
